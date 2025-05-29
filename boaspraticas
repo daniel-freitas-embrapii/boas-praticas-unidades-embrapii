@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Repositório de Boas Práticas</title>
+    <style>
+        body { font-family: Arial; max-width: 800px; margin: 0 auto; padding: 20px; }
+        .tema { background: #f5f5f5; padding: 15px; margin-bottom: 20px; border-radius: 5px; }
+        .documento { margin: 10px 0; padding: 10px; background: white; border-left: 4px solid #2b579a; }
+    </style>
+</head>
+<body>
+    <h1>📚 Repositório de Boas Práticas</h1>
+    
+    <div class="tema">
+        <h2>Meio Ambiente</h2>
+        
+        <div class="documento">
+            <h3>Guia de Sustentabilidade</h3>
+            <p>Documento com diretrizes para redução de impacto ambiental nas operações diárias.</p>
+            <a href="docs/guia-sustentabilidade.pdf" download>Baixar PDF</a>
+        </div>
+        
+        <!-- Adicione mais documentos assim -->
+    </div>
+
+    <!-- Adicione mais temas copiando a div.tema acima -->
+</body>
+</html>
